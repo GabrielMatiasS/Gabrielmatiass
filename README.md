@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 aprendendo Front-end ...
-- 🌱 Estudando análise e desenvolvimento de sistemas ...
 
  <div>
   <a href="https://github.com/gabrielmatiass">
