@@ -1,9 +1,7 @@
 ## Olá meu nome é Gabriel Matias 
 
 
-Here are some ideas to get you started:
-
-- 🔭 aprendendo Front-end ...
+- Aprendendo sobre Front-end e Backend...🔭
 
  <div>
   <a href="https://github.com/gabrielmatiass">
