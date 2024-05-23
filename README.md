@@ -1,7 +1,7 @@
 ## Olá meu nome é Gabriel Matias 
 
 
-- Aprendendo sobre Front-end e Backend...🔭
+- Aprendendo sobre C#...🔭
 
  <div>
   <a href="https://github.com/gabrielmatiass">
